@@ -1,0 +1,6 @@
+Directory made to follow the article below.
+
+https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504
+
+The cpld.bash script did not work properly so I have to mirror the structure 
+presented by the output of 'ldd /bin/bash'.
